@@ -1,4 +1,4 @@
-Social links profile (Card)
+# Social links profile (Card)
 
 This is my solution to the Social links profile challenge on Frontend Mentor
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repo](https://github.com/oppahero/social-links-profile)
+- Solution URL: [Social links profile made with HTML and CSS](https://www.frontendmentor.io/solutions/social-links-profile-made-with-html-and-css-rGQ8mkp4NO)
 - Live Site URL: [Demo](https://oppahero.github.io/social-links-profile/)
 
 ## My process
